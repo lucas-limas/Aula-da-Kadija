@@ -9,7 +9,7 @@
 
 ## O que foi essa aula
 
-A prof explicou como um LLM funciona por dentro — e foi bem diferente do que eu imaginava. A IA não lê texto. Ela lê **tokens**: pedaços numéricos que representam fragmentos de palavras. Cada vez que você manda um prompt, o modelo não entende a frase inteira de uma vez — ele vai prevendo qual é o próximo fragmento mais provável, um por um.
+A professora explicou como um LLM funciona por dentro — e foi bem diferente do que eu imaginava. A IA não lê texto. Ela lê **tokens**: pedaços numéricos que representam fragmentos de palavras. Cada vez que você manda um prompt, o modelo não entende a frase inteira de uma vez — ele vai prevendo qual é o próximo fragmento mais provável, um por um.
 
 Isso explicou muita coisa que eu achava estranha no comportamento das IAs.
 
