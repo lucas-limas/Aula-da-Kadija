@@ -77,7 +77,7 @@ Dá pra usar o locutor pra explicar pra alguém fora da área, e o engenheiro nu
 
 ## Tarefa 2 — Framework RTF na prática
 
-A prof apresentou o **RTF: Role + Task + Format** — uma forma de estruturar o prompt em três partes bem definidas. Usei o exemplo exato do slide:
+A prof apresentou o **RTF: Role + Task + Format**  uma forma de estruturar o prompt em três partes bem definidas. Usei o exemplo exato do slide:
 
 > **[R]** Você é um instrutor de Python experiente.  
 > **[T]** Crie uma função que calcule a média de uma lista de números, incluindo tratamento de erros rigoroso para listas vazias.  
@@ -112,7 +112,7 @@ except ValueError as e:
     print(e)  # Saída: "Erro: a lista não pode estar vazia."
 ```
 
-O que me pegou foi o **[F]**. Só de escrever "exatos 3 casos de teste" vieram exatamente 3 — nem mais, nem menos. Parece bobagem, mas sem isso a IA poderia ter dado qualquer quantidade. Cada parte do RTF fecha uma brecha que você nem percebia que estava aberta no prompt.
+O que me pegou foi o **[F]**. Só de escrever "exatos 3 casos de teste" vieram exatamente 3, nem mais, nem menos. Parece bobagem, mas sem isso a IA poderia ter dado qualquer quantidade. Cada parte do RTF fecha uma brecha que você nem percebia que estava aberta no prompt.
 
 ---
 
