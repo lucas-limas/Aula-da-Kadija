@@ -15,3 +15,4 @@
 | 01 | Missão 01 — Criando meu primeiro prompt | [ver atividade](./atividade-01/README.md) |
 | 02 | Prompt Genérico vs Estruturado | [ver atividade](./atividade-02/README.md) |
 | 03 | Desmontando a Máquina — LLMs e Tokens | [ver atividade](./atividade-03/README.md) |
+| 04 | Do Caos à Estrutura — Persona e Framework RTF | [ver atividade](./atividade-04/README.md) |
