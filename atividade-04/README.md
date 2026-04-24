@@ -120,11 +120,11 @@ O que me pegou foi o **[F]**. Só de escrever "exatos 3 casos de teste" vieram e
 
 *Como a definição explícita de um papel (Persona) alterou a qualidade e a estrutura técnica da resposta da IA?*
 
-Antes dessa tarefa eu achava que Persona era só questão de estilo — tipo, pedir pra IA responder mais descontraída ou mais séria. Mas não é só isso.
+Antes dessa tarefa eu achava que Persona era só questão de estilo tipo, pedir pra IA responder mais descontraída ou mais séria. Mas não é só isso.
 
 O que eu vi foi que a Persona mudou o que o modelo considerou importante mencionar. O locutor nunca falou em Full Table Scan. O engenheiro nunca falou em estádio. Era o mesmo tema, mas pareciam duas pessoas com repertórios completamente diferentes explicando ele.
 
-A IA não tem uma resposta pronta guardada em algum lugar. Ela constrói a resposta baseada no contexto que você deu — e a Persona é parte desse contexto. Quanto mais específico você for sobre quem ela deve ser, mais ela consegue filtrar o que é relevante entregar. É exatamente o que a prof disse: ela lê a estrutura, não a intenção.
+A IA não tem uma resposta pronta guardada em algum lugar. Ela constrói a resposta baseada no contexto que você deu e a Persona é parte desse contexto. Quanto mais específico você for sobre quem ela deve ser, mais ela consegue filtrar o que é relevante entregar. É exatamente o que a prof disse: ela lê a estrutura, não a intenção.
 
 ---
 
