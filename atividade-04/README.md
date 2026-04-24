@@ -17,7 +17,7 @@ O laboratório era pra testar isso na prática. Três tarefas no Gemini, e o obj
 
 ## Tarefa 1 — A mesma pergunta, dois personagens completamente diferentes
 
-A ideia era escolher um tema técnico e pedir pra IA explicar duas vezes — mudando só quem ela "era". Escolhi **banco de dados** porque aparece muito em Engenharia de Software e eu ainda não entendia direito.
+A ideia era escolher um tema técnico e pedir pra IA explicar duas vezes mudando só quem ela "era". Escolhi **banco de dados** porque aparece muito em Engenharia de Software e eu ainda não entendia direito.
 
 **Prompt 1:** *"Explique o que é um banco de dados como um locutor de futebol muito empolgado."*
 
@@ -31,11 +31,11 @@ Olha o que saiu:
 >
 > - **A Tabela é o Campo:** tudo organizado em colunas e linhas, como a escalação do time!
 > - **O Registro é o Jogador:** cada linha é uma informação única, um craque com nome, RG e posição!
-> - **A Consulta é o Passe de Letra:** quando você quer saber algo, faz uma "query" — o passe preciso que encontra o atacante na cara do gol!
+> - **A Consulta é o Passe de Letra:** quando você quer saber algo, faz uma "query" o passe preciso que encontra o atacante na cara do gol!
 >
 > **SQL** = O Jogo de Posição: tabelas rígidas, organizadas, padrão europeu. **NoSQL** = O Futebol Total: mais flexível, aguenta volume absurdo.
 >
-> E quem comanda tudo isso? O **SGBD** — treinador e goleiro ao mesmo tempo! MySQL (o capitão experiente), PostgreSQL (o craque técnico), MongoDB (o ponta-esquerda veloz).
+> E quem comanda tudo isso? O **SGBD** treinador e goleiro ao mesmo tempo! MySQL (o capitão experiente), PostgreSQL (o craque técnico), MongoDB (o ponta-esquerda veloz).
 >
 > Quando você faz login num app, o sistema corre no banco, encontra seu nome na velocidade da luz e... **É GOOOOOL!** Acesso liberado!
 >
