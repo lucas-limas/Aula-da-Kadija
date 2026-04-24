@@ -25,7 +25,6 @@ Resultado: **3 fichas, 10 personagens**
 
 Meu nome tem 10 letras contando o espaço, mas foi dividido em 3 tokens. O "Lucas" sozinho já virou mais de um fragmento — o modelo nunca viu meu nome inteiro, só pedaços dele.
 
-![Tokenizer — Lucas Lima](./prints/tokenizer-lucas-lima.png)
 
 **Testei a frase: "A engenharia de prompt otimiza LLM"**
 
@@ -33,7 +32,6 @@ Resultado: **8 fichas, 34 personagens**
 
 Deu pra ver na visualização como cada palavra virou um bloco colorido diferente. A frase tem 7 palavras, mas virou 8 tokens — o que significa que pelo menos uma palavra foi quebrada em dois fragmentos. A prof tinha falado exatamente isso na aula: a divisão é por frequência estatística, não por palavra.
 
-![Tokenizer — Frase](./prints/tokenizer-frase.png)
 
 ---
 
@@ -59,7 +57,6 @@ Mandei a pergunta direto no Gemini, sem instrução de raciocínio. O que aconte
 
 > *"A quinta palavra da frase é 'roupa' (O - rato - roeu - a - roupa). A terceira letra da palavra 'roupa' é a letra 'u'."*
 
-![Etapa 3 — Gemini com raciocínio](./prints/etapa3-cot.png)
 
 Ou seja: o Gemini já faz Chain-of-Thought automaticamente, sem precisar que eu peça. O botão "Mostrar raciocínio" é exatamente isso — ele processou em etapas por baixo dos panos.
 
@@ -69,7 +66,7 @@ Isso me fez entender o CoT de um ângulo diferente: a técnica existe porque **n
 
 ## Conclusão
 
-Essa aula foi a que mais mudou minha cabeça até agora. Ver o tokenizer dividindo "Lucas Lima" em 3 pedaços foi mais impactante do que qualquer slide — porque ficou concreto. O modelo nunca viu meu nome, só fragmentos dele.
+Essa aula foi a que mais mudou minha cabeça até agora. Ver o tokenizer dividindo "Lucas Lima" em 3 pedaços foi mais esclarecedor (em minha opinião) do que qualquer slide porque ficou concreto. O modelo nunca viu meu nome, só fragmentos dele.
 
 A divisão de tokens influencia diretamente a resposta porque o modelo raciocina em cima desses fragmentos, não das palavras inteiras. Se o fragmento for ambíguo, ou se a frase não der contexto suficiente, o modelo completa com o que for estatisticamente mais provável — e isso pode estar errado.
 
