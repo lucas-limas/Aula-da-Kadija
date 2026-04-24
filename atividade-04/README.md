@@ -63,13 +63,13 @@ Aí a coisa ficou séria de verdade:
 >
 > **Dica de sênior:** não se apegue a uma ferramenta específica. Aprenda a teoria por trás — Álgebra Relacional, Teorema CAP. As ferramentas mudam, mas a necessidade de organizar informação de forma segura é eterna.
 
-Essa resposta me assustou um pouco — ACID, Full Table Scan, sharding são termos que eu nunca tinha visto. Mas o que me chamou atenção foi que o Gemini percebeu que sou de Engenharia de Software e trouxe uma "dica de sênior" direcionada pro curso. Ele não mudou só o tom — mudou o que achou relevante me contar.
+Essa resposta me assustou um pouco ACID, Full Table Scan, sharding são termos que eu nunca tinha visto. Mas o que me chamou atenção foi que o Gemini percebeu que sou de Engenharia de Software e trouxe uma "dica de sênior" direcionada pro curso. Ele não mudou só o tom mudou o que achou relevante me contar.
 
 ---
 
 **Qual dos dois foi mais tecnicamente preciso?**
 
-O segundo, de longe. O locutor foi divertido e criou uma imagem geral na cabeça, mas ele nunca falou em ACID, indexação ou no problema de dois processos escrevendo ao mesmo tempo. O engenheiro foi denso — precisei reler algumas partes — mas trouxe o vocabulário que vai aparecer nas próximas matérias.
+O segundo, de longe. O locutor foi divertido e criou uma imagem geral na cabeça, mas ele nunca falou em ACID, indexação ou no problema de dois processos escrevendo ao mesmo tempo. O engenheiro foi denso, precisei reler algumas partes — mas trouxe o vocabulário que vai aparecer nas próximas matérias.
 
 Dá pra usar o locutor pra explicar pra alguém fora da área, e o engenheiro numa situação técnica. Cada Persona tem seu lugar.
 
