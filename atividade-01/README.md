@@ -17,7 +17,7 @@ Tava pensando em algo do dia a dia mesmo, então resolvi testar um prompt pra me
 
 ## O que a IA respondeu
 
-> Machine Learning é como ensinar uma criança a reconhecer cachorros mostrando várias fotos de cachorros pra ela. Você não explica as regras — ela aprende sozinha, reconhecendo padrões. Com o tempo, ela consegue identificar um cachorro que nunca viu antes. O computador faz a mesma coisa: recebe muitos exemplos, aprende os padrões e começa a tomar decisões por conta própria.
+> Machine Learning é como ensinar uma criança a reconhecer cachorros mostrando várias fotos de cachorros pra ela. Você não explica as regras ela aprende sozinha, reconhecendo padrões. Com o tempo, ela consegue identificar um cachorro que nunca viu antes. O computador faz a mesma coisa: recebe muitos exemplos, aprende os padrões e começa a tomar decisões por conta própria.
 
 ---
 
